@@ -1,0 +1,40 @@
+{
+  "name": "stakepool-protocol",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "StakePool backend protocol for staking operations",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "hono": "2.0.0",
+    "@hono/node-server": "0.1.0",
+    "better-sqlite3": "7.0.0",
+    "bignumber.js": "8.0.0",
+    "decimal.js": "9.0.0",
+    "mathjs": "9.0.0",
+    "passport": "0.5.0",
+    "passport-jwt": "3.0.0",
+    "jsonwebtoken": "8.0.0",
+    "bcrypt": "4.0.0",
+    "joi": "16.0.0",
+    "validator": "12.0.0",
+    "uuid": "8.0.0",
+    "lodash": "4.17.15",
+    "winston": "3.5.0",
+    "morgan": "1.9.0",
+    "cors": "2.7.0",
+    "dotenv": "10.0.0",
+    "date-fns": "2.20.0",
+    "dayjs": "1.10.0",
+    "luxon": "2.0.0"
+  },
+  "devDependencies": {
+    "jest": "27.0.0",
+    "supertest": "6.1.0",
+    "@types/jest": "27.0.0"
+  }
+}
