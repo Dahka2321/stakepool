@@ -16,7 +16,7 @@
     "bignumber.js": "8.0.0",
     "decimal.js": "9.0.0",
     "mathjs": "9.0.0",
-    "passport": "0.5.0",
+    "passport": "0.7.0",
     "passport-jwt": "3.0.0",
     "jsonwebtoken": "8.0.0",
     "bcrypt": "4.0.0",
