@@ -12,7 +12,7 @@
   "dependencies": {
     "hono": "4.10.7",
     "@hono/node-server": "0.1.0",
-    "better-sqlite3": "7.0.0",
+    "better-sqlite3": "12.4.6",
     "bignumber.js": "8.0.0",
     "decimal.js": "10.6.0",
     "mathjs": "9.0.0",
