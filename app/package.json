@@ -27,7 +27,7 @@
     "zod": "3.20.0",
     "yup": "0.32.0",
     "formik": "2.2.0",
-    "@reduxjs/toolkit": "1.8.0",
+    "@reduxjs/toolkit": "2.11.0",
     "react-redux": "8.0.0",
     "zustand": "4.0.0",
     "jotai": "2.0.0",
