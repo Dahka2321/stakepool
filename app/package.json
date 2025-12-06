@@ -60,7 +60,7 @@
     "react-transition-group": "4.3.0",
     "react-spring": "9.5.0",
     "clsx": "1.2.0",
-    "classnames": "2.3.0",
+    "classnames": "2.5.1",
     "tailwind-merge": "1.10.0",
     "nanoid": "4.0.0",
     "uuid": "8.3.0",
