@@ -17,7 +17,7 @@
     "decimal.js": "10.6.0",
     "mathjs": "9.0.0",
     "passport": "0.7.0",
-    "passport-jwt": "3.0.0",
+    "passport-jwt": "4.0.1",
     "jsonwebtoken": "9.0.3",
     "bcrypt": "6.0.0",
     "joi": "18.0.2",
