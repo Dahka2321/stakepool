@@ -46,7 +46,7 @@
     "dayjs": "1.11.19",
     "luxon": "3.0.0",
     "moment": "2.29.0",
-    "bignumber.js": "9.0.0",
+    "bignumber.js": "9.3.1",
     "decimal.js": "10.3.0",
     "mathjs": "11.0.0",
     "lodash": "4.17.21",
